@@ -1,10 +1,10 @@
 # coding: utf-8
 lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require 'online_cart/version'
+require 'super_online_cart/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "online_cart"
+  spec.name          = "super_online_cart"
   spec.version       = OnlineCart::VERSION
   spec.authors       = ["Andrey Eremin"]
   spec.email         = ["dsoft88@gmail.com"]
@@ -14,6 +14,7 @@ Gem::Specification.new do |spec|
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
   # to allow pushing to a single host or delete this section to allow pushing to any host.
+  # TODO
   if spec.respond_to?(:metadata)
     spec.metadata['allowed_push_host'] = "TODO: Set to 'http://mygemserver.com'"
   else
