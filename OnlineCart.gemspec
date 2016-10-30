@@ -7,10 +7,10 @@ Gem::Specification.new do |spec|
   spec.name          = "online_cart"
   spec.version       = OnlineCart::VERSION
   spec.authors       = ["Andrey Eremin"]
-  spec.email         = ["andrey.eremin@xing.com"]
+  spec.email         = ["dsoft88@gmail.com"]
 
-  spec.summary       = %q{Библиотека для работы с корзиной и товарами для интернет-магазина OnlineShop}
-  spec.homepage      = "http://localhost"
+  spec.summary       = %q{Библиотека для работы с корзиной и товарами для интернет-магазина SuperOnlineShop}
+  spec.homepage      = "https://github.com/developer88/super-online-shop-cart-ruby"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
   # to allow pushing to a single host or delete this section to allow pushing to any host.
