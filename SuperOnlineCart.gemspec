@@ -5,7 +5,7 @@ require 'super_online_cart/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "super_online_cart"
-  spec.version       = OnlineCart::VERSION
+  spec.version       = SuperOnlineCart::VERSION
   spec.authors       = ["Andrey Eremin"]
   spec.email         = ["dsoft88@gmail.com"]
 
