@@ -1,0 +1,4 @@
+class SuperOnlineCart::Store
+
+
+end
